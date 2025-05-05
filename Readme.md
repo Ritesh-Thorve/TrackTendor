@@ -50,4 +50,3 @@ This project introduces a modern, digital alternative:
 
 > This project aligns with the mission of **C4GT** to empower governance through open-source, tech-driven civic tools.
 
-*License: MIT (Open Source)*
